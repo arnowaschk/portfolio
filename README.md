@@ -11,7 +11,7 @@
 ## 🚀 Aktuelle Projekte  
 Hier findest du bald Open-Source-Tools für **Datenanalyse, Webservices & Automatisierung**.  
 
-📌 **LinkedIn:** [linkedin.com/in/arnow-solutions](https://linkedin.com/in/arnow-solutions)  
-🌐 **Website:** [arnow.solutions](https://arnow.solutions) (Coming Soon)  
+📌 **LinkedIn:** [linkedin.com/in/arnow-solutions](https://linkedin.com/in/arnow-solutions)  (Coming Soon)  
+🌐 **Website:** [arnow.solutions](https://arnow.solutions) 
 
 🤝 **Lass uns zusammenarbeiten!** Schau dir meine Repositories an oder kontaktiere mich über LinkedIn.  
